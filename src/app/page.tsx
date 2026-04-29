@@ -8,8 +8,8 @@ import Lista from "./components/lista";
 export default function App() {
 
   const palabras = [
-    { es: "Casa", en: "House" },
-    { es: "Perro", en: "Dog" },
+    { es: "sol", en: "sun" },
+    { es: "estrela", en: "star" },
     { es: "Comida", en: "Food" },
     { es: "Escuela", en: "School" },
     { es: "Libro", en: "Book" },
@@ -17,6 +17,17 @@ export default function App() {
     { es: "Coche", en: "Car" },
     { es: "Puerta", en: "Door" },
     { es: "Ciudad", en: "City" },
+    { es: "Montaña", en: "Mountain" },
+    { es: "Nieve", en: "Snow" },
+    { es: "Nieve", en: "Snow" },
+    { es: "Arena", en: "Sand" },
+    { es: "Isla", en: "Island" },
+    { es: "Playa", en: "Beach" },
+    { es: "Valle", en: "Valley" },
+    { es: "Cueva", en: "Cave" },
+
+
+
     { es: "Trabajo", en: "Work" }
   ];
 
